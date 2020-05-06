@@ -8,7 +8,14 @@ The format is based on [Keep a Changelog],
 and this project adheres to [Semantic Versioning].
 
 
-## Unreleased
+Unreleased
+----------
+
+_Coming soon_
+
+
+v0.1.0 - 2020-05-06
+-------------------
 
 - Added `MathUtils.least_common_denominator(a,b)`.
 - Added `MathUtils.greatest_common_divisor(a,b)`.
