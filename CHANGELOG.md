@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning].
 
 ## Unreleased
 
-_Coming soon_
+- Added `MathUtils.greatest_common_divisor`.
 
 
 [Keep a Changelog]: https://keepachangelog.com/en/1.0.0/

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "lib/subvisual/utils/version"
+require_relative "lib/subvisual/utils"
 
 Gem::Specification.new do |spec|
   spec.name          = "subvisual-utils"
