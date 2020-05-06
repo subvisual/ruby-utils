@@ -7,6 +7,7 @@ Gem::Specification.new do |spec|
   spec.version       = Subvisual::Utils::VERSION
   spec.authors       = ["Pedro Costa"]
   spec.email         = ["pedro@subvisual.com"]
+  spec.license       = "MIT"
 
   spec.summary       = "Collection of reusable Ruby utilities by Subvisual"
   spec.homepage      = "https://github.com/subvisual/ruby-utils"
