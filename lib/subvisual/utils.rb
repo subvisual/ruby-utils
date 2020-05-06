@@ -1,6 +1,8 @@
-require "ruby/utils/version"
+# frozen_string_literal: true
 
-module Ruby
+require "subvisual/utils/version"
+
+module Subvisual
   module Utils
     class Error < StandardError; end
     # Your code goes here...
