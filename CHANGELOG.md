@@ -11,6 +11,12 @@ and this project adheres to [Semantic Versioning].
 Unreleased
 ----------
 
+_Coming soon_
+
+
+v0.3.0 - 2020-05-07
+-------------------
+
 - Added `StringUtils.replace_at(string, index, replacement)`.
 
 
