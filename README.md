@@ -28,6 +28,15 @@ Usage
 Utilities are exposed as module methods grouped by the type of utility.
 
 
+### `Subvisual::ArrayUtils.pad_right(array, size, padding = nil)`
+
+Fills an array with some padding up to the specified size.
+
+```ruby
+Subvisual::ArrayUtils.pad_right([1, 2, 3], 5, 0) # => [1, 2, 3, 0, 0]
+```
+
+
 ### `Subvisual::MathUtils.greatest_common_divisor(a,b)`
 
 Computes the Greatest Common Divisor of two numbers.
