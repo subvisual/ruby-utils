@@ -11,6 +11,12 @@ and this project adheres to [Semantic Versioning].
 Unreleased
 ----------
 
+_Coming soon_
+
+
+v0.2.0 - 2020-05-07
+-------------------
+
 - Added `ArrayUtils.pad_right(array, size, padding = nil)`.
 
 
