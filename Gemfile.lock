@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    subvisual-utils (0.3.0)
+    subvisual-utils (0.3.1)
 
 GEM
   remote: https://rubygems.org/
