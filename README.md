@@ -55,6 +55,15 @@ Subvisual::MathUtils.least_common_denominator(21, 6) # => 42
 ```
 
 
+### `Subvisual::StringUtils.replace_at(string, index, replacement)`
+
+Replaces the character at a specific index in a String.
+
+```ruby
+Subvisual::StringUtils.replace_at("Hello", 1, "a") # => "Hallo"
+```
+
+
 Development
 -----------
 
