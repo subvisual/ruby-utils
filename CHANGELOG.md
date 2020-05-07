@@ -11,7 +11,8 @@ and this project adheres to [Semantic Versioning].
 Unreleased
 ----------
 
-_Coming soon_
+- Changed `StringUtils.replace_at(string, index, replacement)` to accept a list
+  of indices to replace.
 
 
 v0.3.0 - 2020-05-07
